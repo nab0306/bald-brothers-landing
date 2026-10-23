@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Bald Brothers Landing Builder",
+  "description": "Interactive landing page creator integrating custom video assets and brand identity for the Bald Brothers website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
